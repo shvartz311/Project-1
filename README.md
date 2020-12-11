@@ -1,0 +1,1 @@
+In order to use this project you must download the terraform plugin through visual studio code.
